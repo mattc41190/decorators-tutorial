@@ -1,6 +1,5 @@
-# Example of how I see imagine functools @wraps works:
+# Example of how I imagine functools @wraps works:
 def wraps(original_fn):
-
     def wrapped_wrapper_fn(wrapper_fn):
         def inner_wrapper(*args, **kwargs):
             return wrapper_fn(*args, **kwargs)

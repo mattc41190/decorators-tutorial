@@ -2,7 +2,7 @@
 
 ## What is this
 
-This is a step by step, program by program, simple as you please introduction to python decorators.
+This is a step by step, program by program, simple as you please introduction to python decorators. It is largely based this [excellent video](https://www.youtube.com/watch?v=FsAPt_9Bf3U&ab_channel=CoreySchafer) by Corey Schafer 👏. 
 
 ## Why make this? 
 
